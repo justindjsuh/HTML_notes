@@ -1,5 +1,5 @@
 # HTML Notes
-This repo is mainly consistent of the information I am putting together on my journey to learn web development.
+This repo is mainly consistent of the information I am putting together on my journey to learn web development.<>
 
 I plan to have a "Notes.md" file for each directory, and each directory will be a section of my learning journey. It will consist of the information I learned within the correlating topic. 
 
@@ -9,9 +9,13 @@ To start off, as this is the introduction to my repo, I'll discuss the concepts 
 Generally, these two *languages* are the fundamental building blocks of the web. HTML is the raw data that stands as the foundation of a webpage. CSS works closely with HTML because it gives HTML the styling it needs to make it look good. I emphasize language, because technically speaking, HTML and CSS are not *programming* languages. Rather than having to program logical functions, they work to present information. However, the third language I'll be learning about is JavaScript, which is indeed a programming language. 
 
 ### Elements & Tags
-HTML consists of elements that are enclosed in these: <..> These are called HTML elements. 
+HTML consists of elements that are enclosed in these: <br>
+`<...>` 
+These are called HTML elements. 
+
 *Most* elements have an opening and a closing tag which look something like this:
 `<h1>...</h1>`
+
 A closing tag is denoted by the forward slash '/' that precedes the element type.
 A few examples that do not follow this notion are the img and meta tags. They simply hold the content without a closing tag like so:
 `<img src="./images/dog.jpg">`
